@@ -1,7 +1,3 @@
-// vending_machine.cpp
-// Compile with:
-//    g++ -std=c++17 vending_machine.cpp -o SmartVendingMachine.exe
-
 #include <iostream>
 #include <fstream>
 #include <iomanip>
@@ -300,3 +296,4 @@ int main() {
 
     return 0;
 }
+
